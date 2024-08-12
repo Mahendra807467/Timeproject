@@ -1,0 +1,11 @@
+.schedule-meet {
+    margin: 20px 0;
+}
+
+.schedule-meet button {
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+};

@@ -1,0 +1,7 @@
+.dark-mode-toggle button {
+  background-color: #222;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+};

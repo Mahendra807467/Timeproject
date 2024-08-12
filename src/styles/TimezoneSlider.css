@@ -1,0 +1,8 @@
+.timezone-slider {
+  margin: 20px 0;
+}
+
+.slider-timezones {
+  display: flex;
+  justify-content: space-between;
+};
